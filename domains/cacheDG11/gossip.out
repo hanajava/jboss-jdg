@@ -1,0 +1,4 @@
+GossipRouter is starting. CTRL-C to exit JVM
+GossipRouter started at Fri Jun 10 14:02:33 KST 2016
+Listening on port 12001 bound on address 0.0.0.0/0.0.0.0
+Backlog is 1000, linger timeout is 2000, and read timeout is 0
