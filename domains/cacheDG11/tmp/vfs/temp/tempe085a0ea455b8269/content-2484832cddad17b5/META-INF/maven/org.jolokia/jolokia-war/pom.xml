@@ -20,7 +20,7 @@
 	<description>agent as web application</description>
 
 	<properties>
-		<jolokia.version>1.2.0</jolokia.version>
+		<jolokia.version>1.6.1</jolokia.version>
 	</properties>
 
 	<dependencies>
